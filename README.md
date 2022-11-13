@@ -25,4 +25,4 @@ I must emphasize that thanks to this work I have been able to learn a lot more a
 
 THE LINK OF FIGMA --> https://www.figma.com/file/q2MGjvnHsPREiLp6HYQLO2/CV_example?node-id=0%3A1
 
-THE LINK OF CV --> [PaulaReixach.github.io](https://paulareixach.github.io/))
+THE LINK OF CV --> [PaulaReixach.github.io](https://paulareixach.github.io/)
